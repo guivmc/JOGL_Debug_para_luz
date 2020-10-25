@@ -1,0 +1,1 @@
+# JOGL_Debug_para_luz
