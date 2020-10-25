@@ -2,7 +2,7 @@
 
 Use as setas para rotacionar os objetos.
 
-![alt text](https://github.com/guivmc/JOGL_Debug_para_luz/pics/main/rotacao.png?raw=true)
+![alt text](https://github.com/guivmc/JOGL_Debug_para_luz/blob/main/LightDebug/pics/rotacao.png?raw=true)
 
 Use t para mudar a tonalizacao.
 
