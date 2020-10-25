@@ -31,3 +31,12 @@ Use d para mudar a luz difusa.
 Use r para voltar com os valores originais.
 
 ![alt text](https://github.com/guivmc/JOGL_Debug_para_luz/blob/main/LightDebug/pics/original.png?raw=true)
+
+O arquivo de inputs eh o KeyBoard.java
+
+![alt text](https://github.com/guivmc/JOGL_Debug_para_luz/blob/main/LightDebug/pics/KeyPress.png?raw=true)
+
+O arquivo de display eh o Cena.java
+
+![alt text](https://github.com/guivmc/JOGL_Debug_para_luz/blob/main/LightDebug/pics/Display.png?raw=true)
+
